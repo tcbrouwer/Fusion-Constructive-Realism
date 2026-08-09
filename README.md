@@ -15,3 +15,4 @@ Gemini session 09082026b:
 
 Gemini session 09082026c:
 - FCR v2.1 including QC briefing.pdf: Adds the three omissions mentioned above, and provides a briefing on Quantum Computing in Fusion Contructive Realism.
+- FCR v2.2: Further outlining refinements to the theory. At some points the document is a bit muon specific.
